@@ -1,4 +1,4 @@
-# Pothole-Detection
+# Pothole.ai
 
 Detects potholes in video feeds. Currently uses mp4 videos as an example but can be easily incorporated into live camera streams
 
